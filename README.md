@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/samueldanquah/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/samueldanquah/azure-network-protocols)
-  - [DNS Configuration Exercises in Azure Environment](https://github.com/samueldanquah/azure-network-protocols)
+  - [DNS Configuration Exercises in Azure Environment](https://github.com/samueldanquah/dns-configuration)
 
 <h2>🤳Connect with me:</h2>
 
