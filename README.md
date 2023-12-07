@@ -1,4 +1,4 @@
-<h1>Hi, I'm Samuel, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hello, I'm Samuel, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -12,7 +12,7 @@
   - [DNS Configuration Exercises in Azure Environment](https://github.com/samueldanquah/dns-configuration)
   - [File Sharing and Permission Management in Active Directory](https://github.com/samueldanquah/file-sharing-and-permission-management)
  
-  - <b>Azure VM and VPN Geographic Experiment</b>
+  <b>Azure VM and VPN Geographic Experiment</b>
   - [Configuring a Commercial VPN within Azure VMs](https://github.com/samueldanquah/vpn-configuration)
   
 
